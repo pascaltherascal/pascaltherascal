@@ -1,0 +1,3 @@
+[submodule "matrix/skin.mirabilis"]
+	path = matrix/skin.mirabilis
+	url = https://github.com/pascaltherascal/skin.mirabilis
