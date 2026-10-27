@@ -1,3 +1,7 @@
+[B]5.1.0.1[/B]
+
+Minor changes to Home screen
+
 [B]4.7.14.1[/B]
 
 Ready for Nexus and some small changes
@@ -33,5 +37,3 @@ Update busy spinner (reversed)
 [B]4.7.*.*[/B]
 
 - Skin redesign Confluence by Pascal
-
-
