@@ -3,7 +3,7 @@
         <extension point="xbmc.addon.repository" name="The Rascal Repo">
 		<dir minversion="18.0">
 			<info compressed="false">https://raw.githubusercontent.com/pascaltherascal/pascaltherascal/main/repo/zip/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/pascaltherascal/pascaltherascal/main/repo/zip/addons.xml.md5</checksum>
+			<checksum>https://raw.githubusercontent.com/pascaltherascal/pascaltherascal/main/zip/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/pascaltherascal/pascaltherascal/main/repo/zip/</datadir>
         </dir>
         </extension>
